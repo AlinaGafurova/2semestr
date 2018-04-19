@@ -1,0 +1,37 @@
+.body{
+    margin: 100px auto;
+    padding:10px;
+    background: white;
+    border-radius: 6px;
+    border: 2px solid #bf6370;
+}
+#field_name{
+    text-align: center;
+    font-size: 22px;
+    margin: 15px 0 10px 0;
+
+}
+.butt{
+    margin: 0 3px 0 0;
+    height: 30px;
+    width: 30px;
+}
+.inp{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin: 15px 0 20px 0;
+}
+.main{
+    background: darkred;
+}
+.last{
+    margin-bottom: 20px;
+}
+#butts{
+    margin-top: 45px;
+}
+.cent{
+    width: inherit;
+
+}
